@@ -23,12 +23,15 @@ $ rewq standup  https://meet.google.com/gar-feil-dtd?authuser=2
 
 or even faster, way to open the link would be, just type… around 11 AM
 
+```
 rewq 
+```
 
 …. becasuse you had configured it with time,
 
+```
 rewq stantup LINK around 11:00 AM
-
+```
 
 
 ## Usecase 2: Quickly open a list of links
