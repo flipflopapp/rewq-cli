@@ -36,7 +36,7 @@ rewq stantup LINK around 11:00 AM
 
 ## Usecase 2: Quickly open a list of links
 
-Suppose you instead wanted to dump a list youtube (and non-youtube) videos for exercises.
+Suppose you instead wanted to make a list of youtube (and non-youtube) videos for exercises.
 
 Workout 1 - Exercises
 https://www.youtube.com/playlist?list=PLoy7IsGb6mC0TJbFGcTvHWaiOUu7b3Ill
@@ -72,9 +72,9 @@ You could use it for jupyter notebooks, company links, or I don't know what but 
 
 ## Finally your feedback
 
-To test it out, I built https://rewq.app . 
+To test it out, I built web version https://rewq.app . 
 
-It allows just one list, or one shortcut, or open one random link from the list.
+It allows just one list, or one shortcut, or open one random link from the list from your browser localstorage. 
 
 Should I build this tool properly?
 
