@@ -8,9 +8,7 @@ Let me just explain it with a few examples.
 
 Suppose, you go to a STANDUP everyday to a link - https://meet.google.com/gar-feil-dtd?authuser=2
 
-You could bookmark it.
-
-Or you could go to command line and type,
+You could bookmark it. Or even faster, you could go to command line and type,
 
 ```
 $ rewq standup 
