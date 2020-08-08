@@ -56,7 +56,12 @@ And it dumps the list and allows you to pick 1, 2, or 3.
 Ofcourse you had to configure it,
 
 ```
-$ rewq workouts add LINK1 LINK2 LINK3
+$ rewq workouts add Exercises https://www.youtube.com/playlist?list=PLoy7IsGb6mC0TJbFGcTvHWaiOUu7b3Ill
+$ rewq workouts add Dip-Station LINK2
+```
+etc... Or all at one go,
+```
+$ rewq workouts Name1 LINK1, Name2 Link2, Name3 Link3
 ```
 
 I guess you get the idea. 
@@ -86,3 +91,11 @@ I will just demo this.
 5. If its your first time opening https://rewq.app ; you will have to type .app now . But for the next time auto-complete would also know it.
 
 REWQ is meaningless, except for its really convenient to type-it (rather swipe-it) with one finger. 
+
+## Why am I posting this
+
+I have an undiagnosed OCD around making tiny-apps. I last made halfchess.com and have a list of next ideas I want to build. Apprently, I am unable to sleep if I dont build stuff and I am not sure if I should build stuff. **Because I want people to use what I built.**
+
+So, do write to me if you need this and I will make it for FREE and sleep.
+
+
