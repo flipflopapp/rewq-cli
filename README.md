@@ -92,7 +92,7 @@ REWQ is meaningless, except for its really convenient to type-it (rather swipe-i
 
 ## Why am I posting this
 
-I have an undiagnosed OCD around making tiny-apps. I last made halfchess.com and have a list of next ideas I want to build. Apprently, I am unable to sleep if I dont build stuff and I am not sure if I should build stuff. **Because I want people to use what I built.**
+I have an undiagnosed OCD around making tiny-apps. I last made https://halfchess.com and have a list of next ideas I want to build. Apprently, I am unable to sleep if I dont build stuff and I am not sure if I should build stuff. **Because I want people to use what I built.**
 
 So, do write to me if you need this and I will make it for FREE and sleep.
 
